@@ -14,7 +14,6 @@ class ViewController: UIViewController {
     @IBOutlet var greenView: UIView!
     @IBOutlet var startButton: UIButton!
     
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         redView.alpha = 0.3
@@ -25,8 +24,6 @@ class ViewController: UIViewController {
         greenView.layer.cornerRadius = CGFloat(greenView.frame.height) / 2.0
         startButton.layer.cornerRadius = 12
     }
-    
-    
     
     @IBAction func startButtonDidNext() {
         startButton.setTitle("NEXT", for: .normal)
@@ -45,7 +42,6 @@ class ViewController: UIViewController {
         }
         else {
             redView.alpha = 1
-
         }
     }
 }
