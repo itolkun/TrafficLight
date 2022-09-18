@@ -35,21 +35,21 @@
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="43" translatesAutoresizingMaskIntoConstraints="NO" id="Vcy-qc-cQa">
                                 <rect key="frame" x="130" y="98" width="133" height="485"/>
                                 <subviews>
-                                    <view alpha="0.29999999999999999" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="qLd-sc-gr3">
+                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="qLd-sc-gr3">
                                         <rect key="frame" x="0.0" y="0.0" width="133" height="133"/>
                                         <color key="backgroundColor" red="0.92128556966781616" green="0.30237318700695964" blue="0.057299674674518269" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                         <constraints>
                                             <constraint firstAttribute="width" secondItem="qLd-sc-gr3" secondAttribute="height" multiplier="1:1" id="NSP-xV-YC4"/>
                                         </constraints>
                                     </view>
-                                    <view alpha="0.29999999999999999" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="r20-1x-Ibz">
+                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="r20-1x-Ibz">
                                         <rect key="frame" x="0.0" y="176" width="133" height="133"/>
                                         <color key="backgroundColor" red="0.95149933310190482" green="0.96841138601303101" blue="0.46893650522131541" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                         <constraints>
                                             <constraint firstAttribute="width" secondItem="r20-1x-Ibz" secondAttribute="height" multiplier="1:1" id="ksa-VU-OEG"/>
                                         </constraints>
                                     </view>
-                                    <view alpha="0.29999999999999999" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="jxB-MV-DQx">
+                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="jxB-MV-DQx">
                                         <rect key="frame" x="0.0" y="352" width="133" height="133"/>
                                         <color key="backgroundColor" red="0.35524198591271627" green="0.79806137822337986" blue="0.26531251115143117" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                         <constraints>
